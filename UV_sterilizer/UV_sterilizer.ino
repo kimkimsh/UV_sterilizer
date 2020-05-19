@@ -84,7 +84,7 @@ void led_control(boolean stat)
   digitalWrite(led6, stat);
 }
 
-function that play the sound with buzzer
+//function that play the sound with buzzer
 void sound()
 {
   // iterate over the notes of the melody:
